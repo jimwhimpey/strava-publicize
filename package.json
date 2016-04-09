@@ -1,0 +1,19 @@
+{
+  "name": "Strava-Publicize",
+  "version": "0.0.1",
+  "description": "Strava doesn't count private activities against public totals, bulk publicize old rides and runs",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jimwhimpey/strava-publicize.git"
+  },
+  "author": "Jim Whimpey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jimwhimpey/strava-publicize/issues"
+  },
+  "homepage": "https://github.com/jimwhimpey/strava-publicize",
+  "dependencies": {
+    "strava-v3": "^1.10.0"
+  }
+}
